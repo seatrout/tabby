@@ -40,7 +40,7 @@
         "_execute_browser_action": {
             "suggested_key": {
                 "default": "Ctrl+Shift+Space",
-                "mac": "MacCtrl+Shift+Space"
+                "mac": "F2"
             },
             "description": "Open Tabby, with focus on the search bar"
         },
